@@ -4,4 +4,4 @@
 
 Foi utilizado setState
 
-![alt text](https://github.com/desenvolvimentoarivan/CursoFlutter/blob/main/contador_pessoa/img/img.png)
+![alt text](https://github.com/desenvolvimentoarivan/CursoFlutter/blob/main/calculadora_imc/img/img.png)
